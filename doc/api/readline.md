@@ -350,6 +350,9 @@ async function processLineByLine() {
 ```
 
 ### rl.line
+<!-- YAML
+added: REPLACEME
+-->
 
 * {string}
 
@@ -382,6 +385,9 @@ process.stdin.on('keypress', (c, k) => {
 ```
 
 ### rl.cursor
+<!-- YAML
+added: REPLACEME
+-->
 
 * {number}
 
